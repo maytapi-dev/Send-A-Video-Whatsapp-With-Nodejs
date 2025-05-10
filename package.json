@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-api-send-video-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Example: How to send video message on WhatsApp API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "api",
+    "maytapi",
+    "nodejs",
+    "video"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
