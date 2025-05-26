@@ -6,7 +6,17 @@ Send video messages via WhatsApp using Maytapi's powerful API.
 - Send videos using Base64 encoding  
 - Optional caption support  
 - Axios-based clean request logic  
-- Robust error handling  
+- Robust error handling
+
+## 🔗 Navigation Links
+
+Based on stakeholder feedback, the following key navigation links have been added:
+
+- 🌐 [Home Page](https://maytapi.com/)  
+- 🔐 [Login Page](https://console.maytapi.com/login)  
+- 💰 [Pricing](https://maytapi.com/whatsapp-api-pricing)  
+- 📄 [Documentation](https://maytapi.com/whatsapp-api-documentation#)
+  
 
 ## 📦 Installation  
 Install Axios to enable HTTP requests:
